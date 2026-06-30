@@ -3,8 +3,8 @@
   "companies": [
     {
       "no": "1",
-      "ticker": "AEM",
-      "company": "Agnico Eagle Mines Ltd",
+      "ticker": "AOM",
+      "company": "AOM",
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",

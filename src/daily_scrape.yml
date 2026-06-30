@@ -1,0 +1,114 @@
+name: Daily Finviz Screener
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Every day at midnight UTC
+  workflow_dispatch:       # Manual trigger from GitHub UI
+
+permissions:
+  contents: write  # commit data files back
+  issues: write    # create issues for change notifications
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      # ---------------------------------------------------------------
+      # 1. Checkout (includes persisted data/ folder from previous runs)
+      # ---------------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ---------------------------------------------------------------
+      # 2. Set up Python
+      # ---------------------------------------------------------------
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ---------------------------------------------------------------
+      # 3. Install dependencies
+      # ---------------------------------------------------------------
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ---------------------------------------------------------------
+      # 4. Run the scraper
+      #    Exit code 0 = no changes  |  Exit code 2 = changes detected
+      # ---------------------------------------------------------------
+      - name: Run scraper
+        id: scrape
+        run: |
+          python scraper.py
+          echo "changes=$?" >> "$GITHUB_OUTPUT"
+
+      # ---------------------------------------------------------------
+      # 5. Expose the diff report content as a step output so we can
+      #    embed it in the GitHub Issue body
+      # ---------------------------------------------------------------
+      - name: Read diff report
+        id: diff
+        if: steps.scrape.outputs.changes == '2'
+        run: |
+          # GitHub outputs don't support raw newlines – encode as JSON string
+          REPORT=$(python -c "
+          import json, pathlib
+          print(json.dumps(pathlib.Path('data/diff_report.txt').read_text()))
+          ")
+          echo "report=$REPORT" >> "$GITHUB_OUTPUT"
+
+      # ---------------------------------------------------------------
+      # 6. Open a GitHub Issue when changes are detected
+      #    The issue is automatically closed the next day if no changes
+      # ---------------------------------------------------------------
+      - name: Create GitHub Issue for changes
+        if: steps.scrape.outputs.changes == '2'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const report = JSON.parse(${{ steps.diff.outputs.report }});
+            const today  = new Date().toISOString().slice(0, 10);
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              title: `📊 Screener changes detected – ${today}`,
+              body: [
+                '## Finviz screener – daily diff report',
+                '',
+                '```',
+                report,
+                '```',
+                '',
+                `**Full run log:** ${runUrl}`,
+              ].join('\n'),
+              labels: ['screener-alert'],
+            });
+
+      # ---------------------------------------------------------------
+      # 7. Commit updated data files back to the repo
+      # ---------------------------------------------------------------
+      - name: Commit data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/screener.json data/diff_report.txt
+          git diff --cached --quiet && echo "Nothing to commit." || \
+            git commit -m "chore: daily screener update $(date -u '+%Y-%m-%d')"
+          git push
+
+      # ---------------------------------------------------------------
+      # 8. Upload diff report as artifact (kept 30 days)
+      # ---------------------------------------------------------------
+      - name: Upload diff report
+        uses: actions/upload-artifact@v4
+        with:
+          name: diff-report-${{ github.run_id }}
+          path: data/diff_report.txt
+          retention-days: 30

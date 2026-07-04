@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-03T03:39:41.726180+00:00",
+  "fetched_at": "2026-07-04T03:32:45.687914+00:00",
   "companies": [
     {
       "no": "1",
@@ -372,7 +372,7 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "country": "USA",
-      "market_cap": "430.20M",
+      "market_cap": "430.19M",
       "pe": "10.03",
       "price": "32.13",
       "change": "1.68%",
@@ -515,7 +515,7 @@
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
       "country": "USA",
-      "market_cap": "623.12M",
+      "market_cap": "623.11M",
       "pe": "10.17",
       "price": "9.47",
       "change": "1.28%",

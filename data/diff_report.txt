@@ -1,14 +1,8 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-03T03:39:41.725682+00:00
-  Previous  : 2026-07-02T03:56:53.300941+00:00
+  Run date  : 2026-07-04T03:32:45.687444+00:00
+  Previous  : 2026-07-03T03:39:41.726180+00:00
 ============================================================
-
-  ✅ NEW entries (1):
-    + ITRN      Ituran Location And Control Ltd      Technology              Israel
-
-  ❌ REMOVED entries (2):
-    - RMD       Resmed Inc                           Healthcare              USA
-    - TFPM      Triple Flag Precious Metals Corp     Basic Materials         Canada
+  No changes detected.
 ============================================================

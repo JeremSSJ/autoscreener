@@ -1,8 +1,14 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-06T03:58:13.556180+00:00
-  Previous  : 2026-07-05T03:51:10.742610+00:00
+  Run date  : 2026-07-07T03:49:21.077341+00:00
+  Previous  : 2026-07-06T03:58:13.556554+00:00
 ============================================================
-  No changes detected.
+
+  ✅ NEW entries (1):
+    + TFPM      Triple Flag Precious Metals Corp     Basic Materials         Canada
+
+  ❌ REMOVED entries (2):
+    - EVR       Evercore Inc                         Financial               USA
+    - ISSC      Innovative Solutions And Support Inc  Industrials             USA
 ============================================================

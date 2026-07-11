@@ -1,13 +1,13 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-10T03:42:10.823741+00:00
-  Previous  : 2026-07-09T03:41:00.682444+00:00
+  Run date  : 2026-07-11T02:56:36.478317+00:00
+  Previous  : 2026-07-10T03:42:10.824264+00:00
 ============================================================
 
   ✅ NEW entries (1):
-    + PLMR      Palomar Holdings Inc                 Financial               USA
+    + RMD       Resmed Inc                           Healthcare              USA
 
   ❌ REMOVED entries (1):
-    - RMD       Resmed Inc                           Healthcare              USA
+    - ISSC      Innovative Solutions And Support Inc  Industrials             USA
 ============================================================

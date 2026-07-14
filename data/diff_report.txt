@@ -1,8 +1,12 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-13T03:25:04.204772+00:00
-  Previous  : 2026-07-12T03:21:53.450544+00:00
+  Run date  : 2026-07-14T02:48:24.672811+00:00
+  Previous  : 2026-07-13T03:25:04.205174+00:00
 ============================================================
-  No changes detected.
+
+  ✅ NEW entries (3):
+    + HLNE      Hamilton Lane Inc                    Financial               USA
+    + ISSC      Innovative Solutions And Support Inc  Industrials             USA
+    + UTHR      United Therapeutics Corp             Healthcare              USA
 ============================================================

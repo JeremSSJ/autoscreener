@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T02:48:10.107331+00:00",
+  "fetched_at": "2026-07-19T03:18:34.270387+00:00",
   "companies": [
     {
       "no": "1",
@@ -48,7 +48,7 @@
       "industry": "Auto Parts",
       "country": "Sweden",
       "market_cap": "9.00B",
-      "pe": "12.92",
+      "pe": "14.16",
       "price": "120.26",
       "change": "-3.78%",
       "volume": "1,803,616"
@@ -177,7 +177,7 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "country": "USA",
-      "market_cap": "3.85B",
+      "market_cap": "3.86B",
       "pe": "18.10",
       "price": "31.49",
       "change": "0.00%",
@@ -528,7 +528,7 @@
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
       "country": "USA",
-      "market_cap": "609.29M",
+      "market_cap": "609.30M",
       "pe": "9.94",
       "price": "9.26",
       "change": "-2.32%",
@@ -640,19 +640,6 @@
     },
     {
       "no": "50",
-      "ticker": "RRF",
-      "company": "Regions Financial Corp",
-      "sector": "Financial",
-      "industry": "Banks - Regional",
-      "country": "USA",
-      "market_cap": "27.01B",
-      "pe": "13.13",
-      "price": "31.65",
-      "change": "-2.31%",
-      "volume": "20,192,193"
-    },
-    {
-      "no": "51",
       "ticker": "RRJF",
       "company": "Raymond James Financial Inc",
       "sector": "Financial",
@@ -665,7 +652,7 @@
       "volume": "1,320,359"
     },
     {
-      "no": "52",
+      "no": "51",
       "ticker": "RRMD",
       "company": "Resmed Inc",
       "sector": "Healthcare",
@@ -678,7 +665,7 @@
       "volume": "1,284,198"
     },
     {
-      "no": "53",
+      "no": "52",
       "ticker": "SSEIC",
       "company": "SEI Investments Co",
       "sector": "Financial",
@@ -691,7 +678,7 @@
       "volume": "866,926"
     },
     {
-      "no": "54",
+      "no": "53",
       "ticker": "TTAYD",
       "company": "Taylor Devices Inc",
       "sector": "Industrials",
@@ -704,7 +691,7 @@
       "volume": "52,940"
     },
     {
-      "no": "55",
+      "no": "54",
       "ticker": "TTFPM",
       "company": "Triple Flag Precious Metals Corp",
       "sector": "Basic Materials",
@@ -717,7 +704,7 @@
       "volume": "381,724"
     },
     {
-      "no": "56",
+      "no": "55",
       "ticker": "TTIMB",
       "company": "TIM SA ADR",
       "sector": "Communication Services",
@@ -730,7 +717,7 @@
       "volume": "604,283"
     },
     {
-      "no": "57",
+      "no": "56",
       "ticker": "TTTAM",
       "company": "Titan America SA",
       "sector": "Basic Materials",
@@ -743,7 +730,7 @@
       "volume": "192,675"
     },
     {
-      "no": "58",
+      "no": "57",
       "ticker": "UULTA",
       "company": "Ulta Beauty Inc",
       "sector": "Consumer Cyclical",
@@ -756,7 +743,7 @@
       "volume": "773,628"
     },
     {
-      "no": "59",
+      "no": "58",
       "ticker": "UUTHR",
       "company": "United Therapeutics Corp",
       "sector": "Healthcare",
@@ -769,7 +756,7 @@
       "volume": "422,243"
     },
     {
-      "no": "60",
+      "no": "59",
       "ticker": "WWTW",
       "company": "Willis Towers Watson Public Limited Co",
       "sector": "Financial",
@@ -782,7 +769,7 @@
       "volume": "653,637"
     },
     {
-      "no": "61",
+      "no": "60",
       "ticker": "ZZTO",
       "company": "ZTO Express (Cayman) Inc ADR",
       "sector": "Industrials",

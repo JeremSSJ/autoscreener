@@ -1,10 +1,15 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-21T03:13:51.634581+00:00
-  Previous  : 2026-07-20T03:32:47.089025+00:00
+  Run date  : 2026-07-22T02:56:33.009427+00:00
+  Previous  : 2026-07-21T03:13:51.635012+00:00
 ============================================================
 
-  ✅ NEW entries (1):
-    + CCUVL     Clinuvel Pharmaceuticals Ltd ADR     Healthcare              Australia
+  ✅ NEW entries (3):
+    + HHLNE     Hamilton Lane Inc                    Financial               USA
+    + MMCRI     Monarch Casino & Resort Inc          Consumer Cyclical       USA
+    + SSCHW     Charles Schwab Corp                  Financial               USA
+
+  ❌ REMOVED entries (1):
+    - IISSC     Innovative Solutions And Support Inc  Industrials             USA
 ============================================================

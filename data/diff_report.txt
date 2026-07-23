@@ -1,15 +1,12 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-22T02:56:33.009427+00:00
-  Previous  : 2026-07-21T03:13:51.635012+00:00
+  Run date  : 2026-07-23T03:18:10.125836+00:00
+  Previous  : 2026-07-22T02:56:33.009933+00:00
 ============================================================
 
   ✅ NEW entries (3):
-    + HHLNE     Hamilton Lane Inc                    Financial               USA
-    + MMCRI     Monarch Casino & Resort Inc          Consumer Cyclical       USA
-    + SSCHW     Charles Schwab Corp                  Financial               USA
-
-  ❌ REMOVED entries (1):
-    - IISSC     Innovative Solutions And Support Inc  Industrials             USA
+    + RRDY      Dr. Reddy's Laboratories Ltd ADR     Healthcare              India
+    + TTTD      Trade Desk Inc                       Communication Services  USA
+    + VVMI      Valmont Industries Inc               Industrials             USA
 ============================================================

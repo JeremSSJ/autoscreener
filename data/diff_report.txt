@@ -1,12 +1,13 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-23T03:18:10.125836+00:00
-  Previous  : 2026-07-22T02:56:33.009933+00:00
+  Run date  : 2026-07-24T02:57:05.812167+00:00
+  Previous  : 2026-07-23T03:18:10.126362+00:00
 ============================================================
 
-  ✅ NEW entries (3):
-    + RRDY      Dr. Reddy's Laboratories Ltd ADR     Healthcare              India
-    + TTTD      Trade Desk Inc                       Communication Services  USA
-    + VVMI      Valmont Industries Inc               Industrials             USA
+  ✅ NEW entries (1):
+    + UURBN     Urban Outfitters Inc                 Consumer Cyclical       USA
+
+  ❌ REMOVED entries (1):
+    - RRDY      Dr. Reddy's Laboratories Ltd ADR     Healthcare              India
 ============================================================

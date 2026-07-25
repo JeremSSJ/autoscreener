@@ -1,13 +1,10 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-24T02:57:05.812167+00:00
-  Previous  : 2026-07-23T03:18:10.126362+00:00
+  Run date  : 2026-07-25T02:57:03.112063+00:00
+  Previous  : 2026-07-24T02:57:05.812667+00:00
 ============================================================
 
-  ✅ NEW entries (1):
-    + UURBN     Urban Outfitters Inc                 Consumer Cyclical       USA
-
   ❌ REMOVED entries (1):
-    - RRDY      Dr. Reddy's Laboratories Ltd ADR     Healthcare              India
+    - AAMP      Ameriprise Financial Inc             Financial               USA
 ============================================================

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-25T02:57:03.112547+00:00",
+  "fetched_at": "2026-07-26T03:23:04.014444+00:00",
   "companies": [
     {
       "no": "1",
@@ -159,19 +159,6 @@
     },
     {
       "no": "13",
-      "ticker": "CCPRX",
-      "company": "Catalyst Pharmaceuticals Inc",
-      "sector": "Healthcare",
-      "industry": "Biotechnology",
-      "country": "USA",
-      "market_cap": "3.86B",
-      "pe": "18.10",
-      "price": "31.49",
-      "change": "0.00%",
-      "volume": "0"
-    },
-    {
-      "no": "14",
       "ticker": "CCUVL",
       "company": "Clinuvel Pharmaceuticals Ltd ADR",
       "sector": "Healthcare",
@@ -184,7 +171,7 @@
       "volume": "440"
     },
     {
-      "no": "15",
+      "no": "14",
       "ticker": "CCVSA",
       "company": "Covista Inc",
       "sector": "Consumer Defensive",
@@ -197,7 +184,7 @@
       "volume": "219,969"
     },
     {
-      "no": "16",
+      "no": "15",
       "ticker": "DDECK",
       "company": "Deckers Outdoor Corp",
       "sector": "Consumer Cyclical",
@@ -210,7 +197,7 @@
       "volume": "5,138,384"
     },
     {
-      "no": "17",
+      "no": "16",
       "ticker": "DDRD",
       "company": "DRDGold Ltd ADR",
       "sector": "Basic Materials",
@@ -223,7 +210,7 @@
       "volume": "264,907"
     },
     {
-      "no": "18",
+      "no": "17",
       "ticker": "EEG",
       "company": "Everest Group Ltd",
       "sector": "Financial",
@@ -236,7 +223,7 @@
       "volume": "313,161"
     },
     {
-      "no": "19",
+      "no": "18",
       "ticker": "EEGO",
       "company": "Eldorado Gold Corp",
       "sector": "Basic Materials",
@@ -249,7 +236,7 @@
       "volume": "2,196,432"
     },
     {
-      "no": "20",
+      "no": "19",
       "ticker": "EERO",
       "company": "Ero Copper Corp",
       "sector": "Basic Materials",
@@ -262,7 +249,7 @@
       "volume": "458,524"
     },
     {
-      "no": "21",
+      "no": "20",
       "ticker": "EEVR",
       "company": "Evercore Inc",
       "sector": "Financial",
@@ -275,7 +262,7 @@
       "volume": "382,580"
     },
     {
-      "no": "22",
+      "no": "21",
       "ticker": "EEXEL",
       "company": "Exelixis Inc",
       "sector": "Healthcare",
@@ -288,7 +275,7 @@
       "volume": "1,838,009"
     },
     {
-      "no": "23",
+      "no": "22",
       "ticker": "EEXLS",
       "company": "ExlService Holdings Inc",
       "sector": "Technology",
@@ -301,7 +288,7 @@
       "volume": "1,419,799"
     },
     {
-      "no": "24",
+      "no": "23",
       "ticker": "FFSLR",
       "company": "First Solar Inc",
       "sector": "Technology",
@@ -314,7 +301,7 @@
       "volume": "1,537,227"
     },
     {
-      "no": "25",
+      "no": "24",
       "ticker": "FFSM",
       "company": "Fortuna Mining Corp",
       "sector": "Basic Materials",
@@ -327,7 +314,7 @@
       "volume": "8,413,542"
     },
     {
-      "no": "26",
+      "no": "25",
       "ticker": "GG",
       "company": "Genpact Ltd",
       "sector": "Technology",
@@ -340,7 +327,7 @@
       "volume": "1,538,189"
     },
     {
-      "no": "27",
+      "no": "26",
       "ticker": "GGFI",
       "company": "Gold Fields Ltd ADR",
       "sector": "Basic Materials",
@@ -353,7 +340,7 @@
       "volume": "3,316,830"
     },
     {
-      "no": "28",
+      "no": "27",
       "ticker": "GGMED",
       "company": "Globus Medical Inc",
       "sector": "Healthcare",
@@ -366,20 +353,20 @@
       "volume": "1,707,176"
     },
     {
-      "no": "29",
+      "no": "28",
       "ticker": "HHLNE",
       "company": "Hamilton Lane Inc",
       "sector": "Financial",
       "industry": "Asset Management",
       "country": "USA",
-      "market_cap": "4.62B",
+      "market_cap": "4.59B",
       "pe": "14.05",
       "price": "83.16",
       "change": "2.48%",
       "volume": "440,667"
     },
     {
-      "no": "30",
+      "no": "29",
       "ticker": "IIAG",
       "company": "Iamgold Corp",
       "sector": "Basic Materials",
@@ -392,7 +379,7 @@
       "volume": "3,654,634"
     },
     {
-      "no": "31",
+      "no": "30",
       "ticker": "IIBEX",
       "company": "IBEX Ltd",
       "sector": "Technology",
@@ -405,7 +392,7 @@
       "volume": "64,775"
     },
     {
-      "no": "32",
+      "no": "31",
       "ticker": "IIDT",
       "company": "IDT Corp",
       "sector": "Communication Services",
@@ -418,7 +405,7 @@
       "volume": "194,482"
     },
     {
-      "no": "33",
+      "no": "32",
       "ticker": "IINTU",
       "company": "Intuit Inc",
       "sector": "Technology",
@@ -431,7 +418,7 @@
       "volume": "3,457,367"
     },
     {
-      "no": "34",
+      "no": "33",
       "ticker": "IITRN",
       "company": "Ituran Location And Control Ltd",
       "sector": "Technology",
@@ -444,7 +431,7 @@
       "volume": "128,361"
     },
     {
-      "no": "35",
+      "no": "34",
       "ticker": "KKGC",
       "company": "Kinross Gold Corp",
       "sector": "Basic Materials",
@@ -457,7 +444,7 @@
       "volume": "5,379,543"
     },
     {
-      "no": "36",
+      "no": "35",
       "ticker": "KKSPI",
       "company": "Kaspi.kz JSC ADR",
       "sector": "Technology",
@@ -470,7 +457,7 @@
       "volume": "322,209"
     },
     {
-      "no": "37",
+      "no": "36",
       "ticker": "LLRN",
       "company": "Stride Inc",
       "sector": "Consumer Defensive",
@@ -483,7 +470,7 @@
       "volume": "792,438"
     },
     {
-      "no": "38",
+      "no": "37",
       "ticker": "LLX",
       "company": "LexinFintech Holdings Ltd ADR",
       "sector": "Financial",
@@ -496,7 +483,7 @@
       "volume": "1,100,483"
     },
     {
-      "no": "39",
+      "no": "38",
       "ticker": "MMCRI",
       "company": "Monarch Casino & Resort Inc",
       "sector": "Consumer Cyclical",
@@ -509,7 +496,7 @@
       "volume": "81,849"
     },
     {
-      "no": "40",
+      "no": "39",
       "ticker": "MMLI",
       "company": "Mueller Industries Inc",
       "sector": "Industrials",
@@ -522,33 +509,33 @@
       "volume": "1,342,009"
     },
     {
-      "no": "41",
+      "no": "40",
       "ticker": "NNEM",
       "company": "Newmont Corp",
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "USA",
-      "market_cap": "99.49B",
+      "market_cap": "98.19B",
       "pe": "11.77",
       "price": "93.19",
       "change": "-1.62%",
       "volume": "9,269,700"
     },
     {
-      "no": "42",
+      "no": "41",
       "ticker": "NNRDS",
       "company": "Nerdwallet Inc",
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
       "country": "USA",
-      "market_cap": "584.30M",
+      "market_cap": "584.29M",
       "pe": "9.53",
       "price": "8.88",
       "change": "1.95%",
       "volume": "477,101"
     },
     {
-      "no": "43",
+      "no": "42",
       "ticker": "NNTB",
       "company": "Bank of N T Butterfield & Son Ltd",
       "sector": "Financial",
@@ -561,7 +548,7 @@
       "volume": "89,502"
     },
     {
-      "no": "44",
+      "no": "43",
       "ticker": "NNTES",
       "company": "NetEase Inc ADR",
       "sector": "Communication Services",
@@ -574,7 +561,7 @@
       "volume": "423,973"
     },
     {
-      "no": "45",
+      "no": "44",
       "ticker": "OOSK",
       "company": "Oshkosh Corp",
       "sector": "Industrials",
@@ -587,7 +574,7 @@
       "volume": "931,075"
     },
     {
-      "no": "46",
+      "no": "45",
       "ticker": "PPAAS",
       "company": "Pan American Silver Corp",
       "sector": "Basic Materials",
@@ -600,7 +587,7 @@
       "volume": "2,865,475"
     },
     {
-      "no": "47",
+      "no": "46",
       "ticker": "PPAYC",
       "company": "Paycom Software Inc",
       "sector": "Technology",
@@ -613,7 +600,7 @@
       "volume": "553,106"
     },
     {
-      "no": "48",
+      "no": "47",
       "ticker": "PPLGO",
       "company": "Pelagos Insurance Capital Ltd",
       "sector": "Financial",
@@ -626,7 +613,7 @@
       "volume": "359,336"
     },
     {
-      "no": "49",
+      "no": "48",
       "ticker": "PPLMR",
       "company": "Palomar Holdings Inc",
       "sector": "Financial",
@@ -639,7 +626,7 @@
       "volume": "241,800"
     },
     {
-      "no": "50",
+      "no": "49",
       "ticker": "PPUK",
       "company": "Prudential plc ADR",
       "sector": "Financial",
@@ -652,20 +639,20 @@
       "volume": "594,832"
     },
     {
-      "no": "51",
+      "no": "50",
       "ticker": "RRJF",
       "company": "Raymond James Financial Inc",
       "sector": "Financial",
       "industry": "Asset Management",
       "country": "USA",
-      "market_cap": "32.99B",
+      "market_cap": "32.52B",
       "pe": "14.76",
       "price": "169.30",
       "change": "1.90%",
       "volume": "1,207,602"
     },
     {
-      "no": "52",
+      "no": "51",
       "ticker": "RRMD",
       "company": "Resmed Inc",
       "sector": "Healthcare",
@@ -678,7 +665,7 @@
       "volume": "1,005,414"
     },
     {
-      "no": "53",
+      "no": "52",
       "ticker": "SSCHW",
       "company": "Charles Schwab Corp",
       "sector": "Financial",
@@ -691,7 +678,7 @@
       "volume": "5,175,667"
     },
     {
-      "no": "54",
+      "no": "53",
       "ticker": "SSEIC",
       "company": "SEI Investments Co",
       "sector": "Financial",
@@ -704,7 +691,7 @@
       "volume": "968,641"
     },
     {
-      "no": "55",
+      "no": "54",
       "ticker": "TTAYD",
       "company": "Taylor Devices Inc",
       "sector": "Industrials",
@@ -717,7 +704,7 @@
       "volume": "57,250"
     },
     {
-      "no": "56",
+      "no": "55",
       "ticker": "TTFPM",
       "company": "Triple Flag Precious Metals Corp",
       "sector": "Basic Materials",
@@ -730,7 +717,7 @@
       "volume": "535,512"
     },
     {
-      "no": "57",
+      "no": "56",
       "ticker": "TTIMB",
       "company": "TIM SA ADR",
       "sector": "Communication Services",
@@ -743,7 +730,7 @@
       "volume": "718,428"
     },
     {
-      "no": "58",
+      "no": "57",
       "ticker": "TTTAM",
       "company": "Titan America SA",
       "sector": "Basic Materials",
@@ -756,7 +743,7 @@
       "volume": "264,980"
     },
     {
-      "no": "59",
+      "no": "58",
       "ticker": "TTTD",
       "company": "Trade Desk Inc",
       "sector": "Communication Services",
@@ -769,7 +756,7 @@
       "volume": "19,695,259"
     },
     {
-      "no": "60",
+      "no": "59",
       "ticker": "UULTA",
       "company": "Ulta Beauty Inc",
       "sector": "Consumer Cyclical",
@@ -782,7 +769,7 @@
       "volume": "545,383"
     },
     {
-      "no": "61",
+      "no": "60",
       "ticker": "UURBN",
       "company": "Urban Outfitters Inc",
       "sector": "Consumer Cyclical",
@@ -795,7 +782,7 @@
       "volume": "960,498"
     },
     {
-      "no": "62",
+      "no": "61",
       "ticker": "UUTHR",
       "company": "United Therapeutics Corp",
       "sector": "Healthcare",
@@ -808,7 +795,7 @@
       "volume": "313,248"
     },
     {
-      "no": "63",
+      "no": "62",
       "ticker": "VVMI",
       "company": "Valmont Industries Inc",
       "sector": "Industrials",
@@ -821,7 +808,7 @@
       "volume": "276,304"
     },
     {
-      "no": "64",
+      "no": "63",
       "ticker": "WWTW",
       "company": "Willis Towers Watson Public Limited Co",
       "sector": "Financial",
@@ -834,7 +821,7 @@
       "volume": "324,755"
     },
     {
-      "no": "65",
+      "no": "64",
       "ticker": "ZZTO",
       "company": "ZTO Express (Cayman) Inc ADR",
       "sector": "Industrials",

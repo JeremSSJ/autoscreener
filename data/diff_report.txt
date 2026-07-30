@@ -1,13 +1,14 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-07-29T02:56:05.229022+00:00
-  Previous  : 2026-07-28T02:49:04.464797+00:00
+  Run date  : 2026-07-30T02:40:58.800517+00:00
+  Previous  : 2026-07-29T02:56:05.229539+00:00
 ============================================================
 
   ✅ NEW entries (1):
-    + WWSFS     WSFS Financial Corp                  Financial               USA
+    + IISSC     Innovative Solutions And Support Inc  Industrials             USA
 
-  ❌ REMOVED entries (1):
-    - RRMD      Resmed Inc                           Healthcare              USA
+  ❌ REMOVED entries (2):
+    - EEXLS     ExlService Holdings Inc              Technology              USA
+    - IINTU     Intuit Inc                           Technology              USA
 ============================================================

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T03:21:24.819982+00:00",
+  "fetched_at": "2026-08-02T03:21:24.403932+00:00",
   "companies": [
     {
       "no": "1",
@@ -74,7 +74,7 @@
       "industry": "Gold",
       "country": "USA",
       "market_cap": "40.06B",
-      "pe": "11.64",
+      "pe": "10.62",
       "price": "79.32",
       "change": "-3.66%",
       "volume": "7,346,119"
@@ -346,7 +346,7 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "country": "USA",
-      "market_cap": "473.18M",
+      "market_cap": "473.17M",
       "pe": "11.03",
       "price": "35.34",
       "change": "-0.35%",

@@ -1,15 +1,11 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-04T02:52:09.895493+00:00
-  Previous  : 2026-08-03T03:23:12.722261+00:00
+  Run date  : 2026-08-05T02:49:00.093674+00:00
+  Previous  : 2026-08-04T02:52:09.896060+00:00
 ============================================================
 
-  ❌ REMOVED entries (6):
-    - AASR      Grupo Aeroportuario Del Sureste SA ADR  Industrials             Mexico
-    - BBOOT     Boot Barn Holdings Inc               Consumer Cyclical       USA
-    - IISSC     Innovative Solutions And Support Inc  Industrials             USA
-    - MMCRI     Monarch Casino & Resort Inc          Consumer Cyclical       USA
-    - UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
-    - UUTHR     United Therapeutics Corp             Healthcare              USA
+  ❌ REMOVED entries (2):
+    - LLRN      Stride Inc                           Consumer Defensive      USA
+    - PPAYC     Paycom Software Inc                  Technology              USA
 ============================================================

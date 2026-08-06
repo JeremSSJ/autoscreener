@@ -1,11 +1,13 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-05T02:49:00.093674+00:00
-  Previous  : 2026-08-04T02:52:09.896060+00:00
+  Run date  : 2026-08-06T02:52:18.087457+00:00
+  Previous  : 2026-08-05T02:49:00.094086+00:00
 ============================================================
 
-  ❌ REMOVED entries (2):
-    - LLRN      Stride Inc                           Consumer Defensive      USA
-    - PPAYC     Paycom Software Inc                  Technology              USA
+  ✅ NEW entries (1):
+    + MMCRI     Monarch Casino & Resort Inc          Consumer Cyclical       USA
+
+  ❌ REMOVED entries (1):
+    - TTFPM     Triple Flag Precious Metals Corp     Basic Materials         Canada
 ============================================================

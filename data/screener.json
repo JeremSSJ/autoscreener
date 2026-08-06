@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T02:49:00.094086+00:00",
+  "fetched_at": "2026-08-06T02:52:18.088075+00:00",
   "companies": [
     {
       "no": "1",
@@ -8,11 +8,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",
-      "market_cap": "76.73B",
-      "pe": "12.88",
-      "price": "150.61",
-      "change": "2.16%",
-      "volume": "2,406,630"
+      "market_cap": "84.29B",
+      "pe": "14.15",
+      "price": "165.45",
+      "change": "9.85%",
+      "volume": "5,504,217"
     },
     {
       "no": "2",
@@ -21,11 +21,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",
-      "market_cap": "12.04B",
-      "pe": "10.35",
-      "price": "28.76",
-      "change": "0.21%",
-      "volume": "6,995,524"
+      "market_cap": "13.09B",
+      "pe": "11.25",
+      "price": "31.27",
+      "change": "8.73%",
+      "volume": "9,625,232"
     },
     {
       "no": "3",
@@ -34,11 +34,11 @@
       "sector": "Consumer Cyclical",
       "industry": "Auto Parts",
       "country": "Sweden",
-      "market_cap": "9.12B",
-      "pe": "14.67",
-      "price": "124.58",
-      "change": "0.65%",
-      "volume": "637,787"
+      "market_cap": "9.02B",
+      "pe": "14.50",
+      "price": "123.12",
+      "change": "-1.17%",
+      "volume": "614,509"
     },
     {
       "no": "4",
@@ -47,11 +47,11 @@
       "sector": "Financial",
       "industry": "Asset Management",
       "country": "USA",
-      "market_cap": "10.13B",
-      "pe": "13.36",
-      "price": "383.42",
-      "change": "0.66%",
-      "volume": "290,071"
+      "market_cap": "9.92B",
+      "pe": "13.09",
+      "price": "375.62",
+      "change": "-2.03%",
+      "volume": "196,142"
     },
     {
       "no": "5",
@@ -60,11 +60,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "USA",
-      "market_cap": "41.16B",
-      "pe": "10.91",
-      "price": "81.50",
-      "change": "-0.13%",
-      "volume": "2,635,873"
+      "market_cap": "44.74B",
+      "pe": "11.86",
+      "price": "88.60",
+      "change": "8.71%",
+      "volume": "3,717,128"
     },
     {
       "no": "6",
@@ -73,11 +73,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",
-      "market_cap": "64.02B",
-      "pe": "10.53",
-      "price": "38.21",
-      "change": "2.28%",
-      "volume": "8,168,947"
+      "market_cap": "68.78B",
+      "pe": "11.31",
+      "price": "41.05",
+      "change": "7.43%",
+      "volume": "12,727,921"
     },
     {
       "no": "7",
@@ -86,11 +86,11 @@
       "sector": "Financial",
       "industry": "Banks - Regional",
       "country": "Peru",
-      "market_cap": "31.19B",
-      "pe": "15.07",
-      "price": "392.12",
-      "change": "-0.93%",
-      "volume": "316,604"
+      "market_cap": "31.41B",
+      "pe": "15.17",
+      "price": "394.88",
+      "change": "0.70%",
+      "volume": "204,865"
     },
     {
       "no": "8",
@@ -99,11 +99,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",
-      "market_cap": "3.55B",
-      "pe": "5.79",
-      "price": "18.15",
-      "change": "3.07%",
-      "volume": "1,525,315"
+      "market_cap": "3.81B",
+      "pe": "6.21",
+      "price": "19.46",
+      "change": "7.22%",
+      "volume": "1,979,242"
     },
     {
       "no": "9",
@@ -112,11 +112,11 @@
       "sector": "Technology",
       "industry": "Software - Infrastructure",
       "country": "Brazil",
-      "market_cap": "447.96M",
-      "pe": "11.23",
-      "price": "3.48",
-      "change": "1.16%",
-      "volume": "60,768"
+      "market_cap": "458.26M",
+      "pe": "11.48",
+      "price": "3.56",
+      "change": "2.30%",
+      "volume": "51,129"
     },
     {
       "no": "10",
@@ -125,11 +125,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "United Kingdom",
-      "market_cap": "374.14M",
-      "pe": "6.04",
-      "price": "19.35",
-      "change": "2.82%",
-      "volume": "189,691"
+      "market_cap": "400.04M",
+      "pe": "6.46",
+      "price": "20.69",
+      "change": "6.93%",
+      "volume": "308,751"
     },
     {
       "no": "11",
@@ -138,11 +138,11 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "country": "Australia",
-      "market_cap": "344.80M",
-      "pe": "16.56",
-      "price": "6.84",
-      "change": "-1.44%",
-      "volume": "1,231"
+      "market_cap": "327.88M",
+      "pe": "15.75",
+      "price": "6.50",
+      "change": "-4.91%",
+      "volume": "1,650"
     },
     {
       "no": "12",
@@ -151,11 +151,11 @@
       "sector": "Consumer Cyclical",
       "industry": "Footwear & Accessories",
       "country": "USA",
-      "market_cap": "13.60B",
-      "pe": "14.17",
-      "price": "99.87",
-      "change": "0.37%",
-      "volume": "2,215,516"
+      "market_cap": "13.52B",
+      "pe": "14.09",
+      "price": "99.31",
+      "change": "-0.56%",
+      "volume": "1,425,888"
     },
     {
       "no": "13",
@@ -164,11 +164,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "South Africa",
-      "market_cap": "1.87B",
-      "pe": "10.40",
-      "price": "21.57",
-      "change": "3.11%",
-      "volume": "313,943"
+      "market_cap": "1.98B",
+      "pe": "11.03",
+      "price": "22.87",
+      "change": "6.03%",
+      "volume": "343,506"
     },
     {
       "no": "14",
@@ -177,11 +177,11 @@
       "sector": "Financial",
       "industry": "Insurance - Reinsurance",
       "country": "Bermuda",
-      "market_cap": "14.61B",
-      "pe": "7.81",
-      "price": "369.21",
-      "change": "-0.76%",
-      "volume": "338,602"
+      "market_cap": "14.31B",
+      "pe": "7.90",
+      "price": "373.28",
+      "change": "1.10%",
+      "volume": "389,022"
     },
     {
       "no": "15",
@@ -190,11 +190,11 @@
       "sector": "Basic Materials",
       "industry": "Copper",
       "country": "Canada",
-      "market_cap": "3.02B",
-      "pe": "10.37",
-      "price": "29.00",
-      "change": "5.96%",
-      "volume": "1,031,113"
+      "market_cap": "3.17B",
+      "pe": "10.88",
+      "price": "30.43",
+      "change": "4.93%",
+      "volume": "1,271,635"
     },
     {
       "no": "16",
@@ -203,11 +203,11 @@
       "sector": "Financial",
       "industry": "Capital Markets",
       "country": "USA",
-      "market_cap": "12.37B",
-      "pe": "18.08",
-      "price": "319.73",
-      "change": "0.44%",
-      "volume": "631,663"
+      "market_cap": "12.33B",
+      "pe": "18.02",
+      "price": "318.78",
+      "change": "-0.30%",
+      "volume": "363,766"
     },
     {
       "no": "17",
@@ -216,11 +216,11 @@
       "sector": "Healthcare",
       "industry": "Biotechnology",
       "country": "USA",
-      "market_cap": "14.08B",
-      "pe": "18.56",
-      "price": "56.00",
-      "change": "1.71%",
-      "volume": "2,729,948"
+      "market_cap": "14.25B",
+      "pe": "18.79",
+      "price": "56.70",
+      "change": "1.25%",
+      "volume": "4,202,047"
     },
     {
       "no": "18",
@@ -229,11 +229,11 @@
       "sector": "Technology",
       "industry": "Solar",
       "country": "USA",
-      "market_cap": "26.18B",
-      "pe": "15.02",
-      "price": "243.63",
-      "change": "4.68%",
-      "volume": "4,251,311"
+      "market_cap": "25.45B",
+      "pe": "14.60",
+      "price": "236.80",
+      "change": "-2.80%",
+      "volume": "3,237,791"
     },
     {
       "no": "19",
@@ -242,11 +242,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",
-      "market_cap": "2.74B",
-      "pe": "8.41",
-      "price": "9.05",
-      "change": "4.38%",
-      "volume": "6,206,238"
+      "market_cap": "2.91B",
+      "pe": "8.92",
+      "price": "9.60",
+      "change": "6.08%",
+      "volume": "8,823,298"
     },
     {
       "no": "20",
@@ -255,11 +255,11 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "country": "Bermuda",
-      "market_cap": "6.07B",
-      "pe": "11.01",
-      "price": "35.79",
-      "change": "1.79%",
-      "volume": "1,529,521"
+      "market_cap": "5.98B",
+      "pe": "10.85",
+      "price": "35.27",
+      "change": "-1.45%",
+      "volume": "1,997,172"
     },
     {
       "no": "21",
@@ -268,11 +268,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "South Africa",
-      "market_cap": "30.53B",
-      "pe": "8.63",
-      "price": "34.11",
-      "change": "0.44%",
-      "volume": "3,566,329"
+      "market_cap": "33.38B",
+      "pe": "9.43",
+      "price": "37.29",
+      "change": "9.32%",
+      "volume": "5,873,563"
     },
     {
       "no": "22",
@@ -281,11 +281,11 @@
       "sector": "Healthcare",
       "industry": "Medical Devices",
       "country": "USA",
-      "market_cap": "11.06B",
-      "pe": "18.98",
-      "price": "81.51",
-      "change": "0.06%",
-      "volume": "1,207,037"
+      "market_cap": "10.93B",
+      "pe": "18.76",
+      "price": "80.54",
+      "change": "-1.19%",
+      "volume": "1,394,567"
     },
     {
       "no": "23",
@@ -294,11 +294,11 @@
       "sector": "Financial",
       "industry": "Asset Management",
       "country": "USA",
-      "market_cap": "5.61B",
-      "pe": "17.17",
-      "price": "101.61",
-      "change": "7.06%",
-      "volume": "1,346,512"
+      "market_cap": "5.56B",
+      "pe": "17.04",
+      "price": "100.81",
+      "change": "-0.79%",
+      "volume": "1,000,041"
     },
     {
       "no": "24",
@@ -307,11 +307,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",
-      "market_cap": "8.55B",
-      "pe": "8.63",
-      "price": "14.80",
-      "change": "0.34%",
-      "volume": "6,049,117"
+      "market_cap": "9.18B",
+      "pe": "9.27",
+      "price": "15.89",
+      "change": "7.36%",
+      "volume": "6,992,279"
     },
     {
       "no": "25",
@@ -320,11 +320,11 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "country": "USA",
-      "market_cap": "485.49M",
-      "pe": "11.32",
-      "price": "36.26",
-      "change": "1.31%",
-      "volume": "81,985"
+      "market_cap": "486.56M",
+      "pe": "11.34",
+      "price": "36.34",
+      "change": "0.22%",
+      "volume": "112,435"
     },
     {
       "no": "26",
@@ -333,11 +333,11 @@
       "sector": "Technology",
       "industry": "Software - Application",
       "country": "USA",
-      "market_cap": "88.52B",
-      "pe": "19.59",
-      "price": "323.60",
-      "change": "1.64%",
-      "volume": "3,491,440"
+      "market_cap": "89.70B",
+      "pe": "19.86",
+      "price": "327.94",
+      "change": "1.34%",
+      "volume": "3,650,746"
     },
     {
       "no": "27",
@@ -346,11 +346,11 @@
       "sector": "Technology",
       "industry": "Scientific & Technical Instruments",
       "country": "Israel",
-      "market_cap": "1.13B",
-      "pe": "18.68",
-      "price": "56.58",
-      "change": "1.29%",
-      "volume": "162,747"
+      "market_cap": "1.11B",
+      "pe": "18.39",
+      "price": "55.70",
+      "change": "-1.56%",
+      "volume": "104,340"
     },
     {
       "no": "28",
@@ -359,11 +359,11 @@
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",
-      "market_cap": "28.00B",
-      "pe": "8.95",
-      "price": "23.60",
-      "change": "0.73%",
-      "volume": "8,301,845"
+      "market_cap": "30.49B",
+      "pe": "9.75",
+      "price": "25.70",
+      "change": "8.90%",
+      "volume": "14,449,442"
     },
     {
       "no": "29",
@@ -372,11 +372,11 @@
       "sector": "Technology",
       "industry": "Software - Infrastructure",
       "country": "Kazakhstan",
-      "market_cap": "17.48B",
-      "pe": "8.54",
-      "price": "92.00",
-      "change": "0.00%",
-      "volume": "646,084"
+      "market_cap": "17.52B",
+      "pe": "8.56",
+      "price": "92.19",
+      "change": "0.21%",
+      "volume": "716,491"
     },
     {
       "no": "30",
@@ -388,167 +388,180 @@
       "market_cap": "196.23M",
       "pe": "1.29",
       "price": "1.48",
-      "change": "0.68%",
-      "volume": "922,777"
+      "change": "0.00%",
+      "volume": "506,659"
     },
     {
       "no": "31",
+      "ticker": "MMCRI",
+      "company": "Monarch Casino & Resort Inc",
+      "sector": "Consumer Cyclical",
+      "industry": "Resorts & Casinos",
+      "country": "USA",
+      "market_cap": "2.18B",
+      "pe": "19.53",
+      "price": "121.67",
+      "change": "-2.90%",
+      "volume": "111,458"
+    },
+    {
+      "no": "32",
       "ticker": "MMLI",
       "company": "Mueller Industries Inc",
       "sector": "Industrials",
       "industry": "Metal Fabrication",
       "country": "USA",
-      "market_cap": "15.12B",
-      "pe": "17.82",
-      "price": "68.35",
-      "change": "2.70%",
-      "volume": "996,406"
+      "market_cap": "15.32B",
+      "pe": "18.05",
+      "price": "69.26",
+      "change": "1.33%",
+      "volume": "1,024,819"
     },
     {
-      "no": "32",
+      "no": "33",
       "ticker": "NNEM",
       "company": "Newmont Corp",
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "USA",
-      "market_cap": "102.98B",
-      "pe": "12.34",
-      "price": "97.73",
-      "change": "2.47%",
-      "volume": "5,449,083"
+      "market_cap": "109.89B",
+      "pe": "13.17",
+      "price": "104.29",
+      "change": "6.71%",
+      "volume": "9,539,317"
     },
     {
-      "no": "33",
+      "no": "34",
       "ticker": "NNRDS",
       "company": "Nerdwallet Inc",
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
       "country": "USA",
-      "market_cap": "609.30M",
-      "pe": "9.94",
-      "price": "9.26",
-      "change": "1.76%",
-      "volume": "615,588"
+      "market_cap": "597.46M",
+      "pe": "9.75",
+      "price": "9.08",
+      "change": "-1.94%",
+      "volume": "837,072"
     },
     {
-      "no": "34",
+      "no": "35",
       "ticker": "NNTB",
       "company": "Bank of N T Butterfield & Son Ltd",
       "sector": "Financial",
       "industry": "Banks - Diversified",
       "country": "Bermuda",
-      "market_cap": "2.44B",
-      "pe": "10.93",
-      "price": "62.11",
-      "change": "-0.06%",
-      "volume": "158,060"
+      "market_cap": "2.43B",
+      "pe": "10.89",
+      "price": "61.86",
+      "change": "-0.40%",
+      "volume": "179,448"
     },
     {
-      "no": "35",
+      "no": "36",
       "ticker": "NNTES",
       "company": "NetEase Inc ADR",
       "sector": "Communication Services",
       "industry": "Electronic Gaming & Multimedia",
       "country": "China",
-      "market_cap": "83.38B",
-      "pe": "17.49",
-      "price": "130.60",
-      "change": "-0.74%",
-      "volume": "725,665"
+      "market_cap": "81.79B",
+      "pe": "17.15",
+      "price": "128.11",
+      "change": "-1.91%",
+      "volume": "629,513"
     },
     {
-      "no": "36",
+      "no": "37",
       "ticker": "OOSK",
       "company": "Oshkosh Corp",
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
       "country": "USA",
-      "market_cap": "9.68B",
-      "pe": "17.94",
-      "price": "156.72",
-      "change": "5.63%",
-      "volume": "1,414,497"
+      "market_cap": "9.43B",
+      "pe": "17.49",
+      "price": "152.81",
+      "change": "-2.49%",
+      "volume": "842,260"
     },
     {
-      "no": "37",
+      "no": "38",
       "ticker": "PPAAS",
       "company": "Pan American Silver Corp",
       "sector": "Basic Materials",
       "industry": "Gold",
       "country": "Canada",
-      "market_cap": "18.92B",
-      "pe": "14.39",
-      "price": "44.91",
-      "change": "2.70%",
-      "volume": "3,483,824"
+      "market_cap": "20.33B",
+      "pe": "15.46",
+      "price": "48.24",
+      "change": "7.41%",
+      "volume": "6,293,053"
     },
     {
-      "no": "38",
+      "no": "39",
       "ticker": "PPLGO",
       "company": "Pelagos Insurance Capital Ltd",
       "sector": "Financial",
       "industry": "Insurance - Diversified",
       "country": "Bermuda",
-      "market_cap": "2.14B",
-      "pe": "6.70",
-      "price": "25.07",
-      "change": "-0.95%",
-      "volume": "415,691"
+      "market_cap": "2.18B",
+      "pe": "6.83",
+      "price": "25.55",
+      "change": "1.91%",
+      "volume": "370,944"
     },
     {
-      "no": "39",
+      "no": "40",
       "ticker": "PPLMR",
       "company": "Palomar Holdings Inc",
       "sector": "Financial",
       "industry": "Insurance - Property & Casualty",
       "country": "USA",
-      "market_cap": "3.61B",
-      "pe": "18.94",
-      "price": "136.11",
-      "change": "-0.29%",
-      "volume": "171,252"
+      "market_cap": "3.55B",
+      "pe": "18.65",
+      "price": "134.00",
+      "change": "-1.55%",
+      "volume": "491,968"
     },
     {
-      "no": "40",
+      "no": "41",
       "ticker": "PPUK",
       "company": "Prudential plc ADR",
       "sector": "Financial",
       "industry": "Insurance - Life",
       "country": "Hong Kong",
-      "market_cap": "36.72B",
-      "pe": "9.61",
-      "price": "29.51",
-      "change": "-1.80%",
-      "volume": "1,097,101"
+      "market_cap": "34.78B",
+      "pe": "9.10",
+      "price": "27.95",
+      "change": "-5.29%",
+      "volume": "2,251,225"
     },
     {
-      "no": "41",
+      "no": "42",
       "ticker": "RRJF",
       "company": "Raymond James Financial Inc",
       "sector": "Financial",
       "industry": "Asset Management",
       "country": "USA",
-      "market_cap": "34.30B",
-      "pe": "15.57",
-      "price": "178.57",
-      "change": "0.50%",
-      "volume": "967,012"
+      "market_cap": "34.68B",
+      "pe": "15.74",
+      "price": "180.55",
+      "change": "1.11%",
+      "volume": "856,157"
     },
     {
-      "no": "42",
+      "no": "43",
       "ticker": "SSCHW",
       "company": "Charles Schwab Corp",
       "sector": "Financial",
       "industry": "Capital Markets",
       "country": "USA",
-      "market_cap": "184.96B",
-      "pe": "19.35",
-      "price": "106.35",
-      "change": "0.45%",
-      "volume": "6,861,844"
+      "market_cap": "187.86B",
+      "pe": "19.65",
+      "price": "108.02",
+      "change": "1.57%",
+      "volume": "11,677,749"
     },
     {
-      "no": "43",
+      "no": "44",
       "ticker": "SSEIC",
       "company": "SEI Investments Co",
       "sector": "Financial",
@@ -556,35 +569,22 @@
       "country": "USA",
       "market_cap": "12.57B",
       "pe": "18.49",
-      "price": "104.72",
-      "change": "0.51%",
-      "volume": "725,582"
+      "price": "104.76",
+      "change": "0.04%",
+      "volume": "591,997"
     },
     {
-      "no": "44",
+      "no": "45",
       "ticker": "TTAYD",
       "company": "Taylor Devices Inc",
       "sector": "Industrials",
       "industry": "Specialty Industrial Machinery",
       "country": "USA",
-      "market_cap": "172.86M",
-      "pe": "16.97",
-      "price": "53.70",
-      "change": "2.29%",
-      "volume": "16,277"
-    },
-    {
-      "no": "45",
-      "ticker": "TTFPM",
-      "company": "Triple Flag Precious Metals Corp",
-      "sector": "Basic Materials",
-      "industry": "Other Precious Metals & Mining",
-      "country": "Canada",
-      "market_cap": "6.18B",
-      "pe": "19.78",
-      "price": "29.90",
-      "change": "2.19%",
-      "volume": "424,184"
+      "market_cap": "169.94M",
+      "pe": "16.69",
+      "price": "52.79",
+      "change": "-1.69%",
+      "volume": "11,263"
     },
     {
       "no": "46",
@@ -593,11 +593,11 @@
       "sector": "Communication Services",
       "industry": "Telecom Services",
       "country": "Brazil",
-      "market_cap": "8.74B",
-      "pe": "10.76",
-      "price": "18.29",
-      "change": "-3.33%",
-      "volume": "616,724"
+      "market_cap": "8.73B",
+      "pe": "10.75",
+      "price": "18.27",
+      "change": "-0.11%",
+      "volume": "629,826"
     },
     {
       "no": "47",
@@ -607,10 +607,10 @@
       "industry": "Building Materials",
       "country": "Belgium",
       "market_cap": "2.96B",
-      "pe": "16.72",
-      "price": "16.06",
-      "change": "1.32%",
-      "volume": "219,064"
+      "pe": "16.71",
+      "price": "16.05",
+      "change": "-0.06%",
+      "volume": "201,641"
     },
     {
       "no": "48",
@@ -619,11 +619,11 @@
       "sector": "Consumer Cyclical",
       "industry": "Apparel Retail",
       "country": "USA",
-      "market_cap": "6.75B",
-      "pe": "15.14",
-      "price": "78.88",
-      "change": "1.53%",
-      "volume": "690,060"
+      "market_cap": "6.67B",
+      "pe": "14.95",
+      "price": "77.89",
+      "change": "-1.26%",
+      "volume": "703,338"
     },
     {
       "no": "49",
@@ -632,11 +632,11 @@
       "sector": "Industrials",
       "industry": "Conglomerates",
       "country": "USA",
-      "market_cap": "9.72B",
-      "pe": "19.60",
-      "price": "503.50",
-      "change": "3.05%",
-      "volume": "232,609"
+      "market_cap": "9.58B",
+      "pe": "19.33",
+      "price": "496.40",
+      "change": "-1.41%",
+      "volume": "149,230"
     },
     {
       "no": "50",
@@ -645,11 +645,11 @@
       "sector": "Financial",
       "industry": "Banks - Regional",
       "country": "USA",
-      "market_cap": "4.26B",
-      "pe": "13.74",
-      "price": "81.94",
-      "change": "0.48%",
-      "volume": "295,992"
+      "market_cap": "4.28B",
+      "pe": "13.80",
+      "price": "82.29",
+      "change": "0.43%",
+      "volume": "392,888"
     },
     {
       "no": "51",
@@ -658,11 +658,11 @@
       "sector": "Industrials",
       "industry": "Integrated Freight & Logistics",
       "country": "China",
-      "market_cap": "13.44B",
-      "pe": "14.99",
-      "price": "23.98",
-      "change": "-2.60%",
-      "volume": "1,829,921"
+      "market_cap": "13.28B",
+      "pe": "14.81",
+      "price": "23.69",
+      "change": "-1.21%",
+      "volume": "2,749,823"
     }
   ]
 }

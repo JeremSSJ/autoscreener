@@ -1,14 +1,16 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-07T02:50:16.302463+00:00
-  Previous  : 2026-08-06T02:52:18.088075+00:00
+  Run date  : 2026-08-08T01:53:08.056854+00:00
+  Previous  : 2026-08-07T02:50:16.302866+00:00
 ============================================================
 
-  ✅ NEW entries (5):
-    + BBALL     Ball Corp                            Consumer Cyclical       USA
-    + NNXPI     NXP Semiconductors NV                Technology              Netherlands
-    + TTFPM     Triple Flag Precious Metals Corp     Basic Materials         Canada
-    + TTTD      Trade Desk Inc                       Communication Services  USA
-    + WWDC      Western Digital Corp                 Technology              USA
+  ✅ NEW entries (2):
+    + IIDT      IDT Corp                             Communication Services  USA
+    + QQNST     QuinStreet Inc                       Communication Services  USA
+
+  ❌ REMOVED entries (3):
+    - GGMED     Globus Medical Inc                   Healthcare              USA
+    - NNXPI     NXP Semiconductors NV                Technology              Netherlands
+    - TTTD      Trade Desk Inc                       Communication Services  USA
 ============================================================

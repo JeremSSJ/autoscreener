@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-08T01:53:08.057248+00:00",
+  "fetched_at": "2026-08-09T02:00:46.309862+00:00",
   "companies": [
     {
       "no": "1",
@@ -450,7 +450,7 @@
       "sector": "Communication Services",
       "industry": "Internet Content & Information",
       "country": "USA",
-      "market_cap": "652.06M",
+      "market_cap": "652.07M",
       "pe": "11.14",
       "price": "9.91",
       "change": "12.10%",
@@ -619,7 +619,7 @@
       "sector": "Basic Materials",
       "industry": "Other Precious Metals & Mining",
       "country": "Canada",
-      "market_cap": "6.74B",
+      "market_cap": "6.72B",
       "pe": "16.39",
       "price": "32.62",
       "change": "1.59%",
@@ -710,7 +710,7 @@
       "sector": "Industrials",
       "industry": "Integrated Freight & Logistics",
       "country": "China",
-      "market_cap": "13.22B",
+      "market_cap": "13.07B",
       "pe": "14.75",
       "price": "23.60",
       "change": "-1.95%",

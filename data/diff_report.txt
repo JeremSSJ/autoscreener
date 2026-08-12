@@ -1,14 +1,16 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-11T02:00:32.370922+00:00
-  Previous  : 2026-08-10T02:05:20.289691+00:00
+  Run date  : 2026-08-12T02:13:33.917954+00:00
+  Previous  : 2026-08-11T02:00:32.371424+00:00
 ============================================================
 
-  ✅ NEW entries (2):
-    + CCVSA     Covista Inc                          Consumer Defensive      USA
-    + NNXPI     NXP Semiconductors NV                Technology              Netherlands
+  ✅ NEW entries (3):
+    + CCARG     CarGurus Inc                         Consumer Cyclical       USA
+    + KKFY      Korn Ferry                           Industrials             USA
+    + OOPFI     OppFi Inc                            Financial               USA
 
-  ❌ REMOVED entries (1):
-    - IINTU     Intuit Inc                           Technology              USA
+  ❌ REMOVED entries (2):
+    - IIDT      IDT Corp                             Communication Services  USA
+    - NNXPI     NXP Semiconductors NV                Technology              Netherlands
 ============================================================

@@ -1,16 +1,19 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-12T02:13:33.917954+00:00
-  Previous  : 2026-08-11T02:00:32.371424+00:00
+  Run date  : 2026-08-13T02:19:09.332229+00:00
+  Previous  : 2026-08-12T02:13:33.918425+00:00
 ============================================================
 
-  ✅ NEW entries (3):
-    + CCARG     CarGurus Inc                         Consumer Cyclical       USA
-    + KKFY      Korn Ferry                           Industrials             USA
-    + OOPFI     OppFi Inc                            Financial               USA
+  ✅ NEW entries (4):
+    + NNXPI     NXP Semiconductors NV                Technology              Netherlands
+    + SSMCI     Super Micro Computer Inc             Technology              USA
+    + TTGS      Transportadora de Gas del Sur ADR    Energy                  Argentina
+    + UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
 
-  ❌ REMOVED entries (2):
-    - IIDT      IDT Corp                             Communication Services  USA
-    - NNXPI     NXP Semiconductors NV                Technology              Netherlands
+  ❌ REMOVED entries (4):
+    - BBALL     Ball Corp                            Consumer Cyclical       USA
+    - CCARG     CarGurus Inc                         Consumer Cyclical       USA
+    - CCINT     CI&T Inc                             Technology              Brazil
+    - CCMCL     Caledonia Mining Corp Plc            Basic Materials         United Kingdom
 ============================================================

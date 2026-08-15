@@ -1,12 +1,10 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-14T02:14:17.052077+00:00
-  Previous  : 2026-08-13T02:19:09.332765+00:00
+  Run date  : 2026-08-15T01:25:18.593386+00:00
+  Previous  : 2026-08-14T02:14:17.052555+00:00
 ============================================================
 
-  ❌ REMOVED entries (3):
-    - CCVSA     Covista Inc                          Consumer Defensive      USA
-    - SSCHW     Charles Schwab Corp                  Financial               USA
-    - WWDC      Western Digital Corp                 Technology              USA
+  ❌ REMOVED entries (1):
+    - NNXPI     NXP Semiconductors NV                Technology              Netherlands
 ============================================================

@@ -1,11 +1,13 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-18T01:24:59.300538+00:00
-  Previous  : 2026-08-17T01:28:09.041821+00:00
+  Run date  : 2026-08-19T01:26:21.617693+00:00
+  Previous  : 2026-08-18T01:24:59.300970+00:00
 ============================================================
 
-  ✅ NEW entries (2):
-    + CCARG     CarGurus Inc                         Consumer Cyclical       USA
-    + NNXPI     NXP Semiconductors NV                Technology              Netherlands
+  ✅ NEW entries (1):
+    + HHTB      HomeTrust Bancshares Inc             Financial               USA
+
+  ❌ REMOVED entries (1):
+    - TTAYD     Taylor Devices Inc                   Industrials             USA
 ============================================================

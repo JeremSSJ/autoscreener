@@ -1,13 +1,15 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-19T01:26:21.617693+00:00
-  Previous  : 2026-08-18T01:24:59.300970+00:00
+  Run date  : 2026-08-20T01:25:22.589352+00:00
+  Previous  : 2026-08-19T01:26:21.618094+00:00
 ============================================================
 
-  ✅ NEW entries (1):
-    + HHTB      HomeTrust Bancshares Inc             Financial               USA
+  ✅ NEW entries (2):
+    + NNUE      Nucor Corp                           Basic Materials         USA
+    + WWDC      Western Digital Corp                 Technology              USA
 
-  ❌ REMOVED entries (1):
-    - TTAYD     Taylor Devices Inc                   Industrials             USA
+  ❌ REMOVED entries (2):
+    - CCARG     CarGurus Inc                         Consumer Cyclical       USA
+    - MMCRI     Monarch Casino & Resort Inc          Consumer Cyclical       USA
 ============================================================

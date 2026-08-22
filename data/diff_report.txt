@@ -1,16 +1,16 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-21T01:35:57.460524+00:00
-  Previous  : 2026-08-20T01:25:22.589872+00:00
+  Run date  : 2026-08-22T01:24:38.288475+00:00
+  Previous  : 2026-08-21T01:35:57.460987+00:00
 ============================================================
 
-  ✅ NEW entries (4):
-    + CCVSA     Covista Inc                          Consumer Defensive      USA
-    + IIA       Innovative Solutions And Support Inc  Industrials             USA
-    + SSCHW     Charles Schwab Corp                  Financial               USA
-    + SSTLD     Steel Dynamics Inc                   Basic Materials         USA
+  ✅ NEW entries (1):
+    + SSQM      Sociedad Quimica Y Minera de Chile SA ADR  Basic Materials         Chile
 
-  ❌ REMOVED entries (1):
-    - DDRD      DRDGold Ltd ADR                      Basic Materials         South Africa
+  ❌ REMOVED entries (4):
+    - CCVSA     Covista Inc                          Consumer Defensive      USA
+    - IIA       Innovative Solutions And Support Inc  Industrials             USA
+    - SSCHW     Charles Schwab Corp                  Financial               USA
+    - SSTLD     Steel Dynamics Inc                   Basic Materials         USA
 ============================================================

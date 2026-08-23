@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T01:24:38.289158+00:00",
+  "fetched_at": "2026-08-23T01:38:38.610263+00:00",
   "companies": [
     {
       "no": "1",
@@ -211,6 +211,19 @@
     },
     {
       "no": "17",
+      "ticker": "FFUTU",
+      "company": "Futu Holdings Ltd ADR",
+      "sector": "Financial",
+      "industry": "Capital Markets",
+      "country": "Hong Kong",
+      "market_cap": "11.84B",
+      "pe": "12.22",
+      "price": "123.64",
+      "change": "9.68%",
+      "volume": "3,466,993"
+    },
+    {
+      "no": "18",
       "ticker": "GG",
       "company": "Genpact Ltd",
       "sector": "Technology",
@@ -223,7 +236,7 @@
       "volume": "5,304,609"
     },
     {
-      "no": "18",
+      "no": "19",
       "ticker": "GGFI",
       "company": "Gold Fields Ltd ADR",
       "sector": "Basic Materials",
@@ -236,7 +249,7 @@
       "volume": "4,870,968"
     },
     {
-      "no": "19",
+      "no": "20",
       "ticker": "HHLNE",
       "company": "Hamilton Lane Inc",
       "sector": "Financial",
@@ -249,7 +262,7 @@
       "volume": "445,640"
     },
     {
-      "no": "20",
+      "no": "21",
       "ticker": "HHTB",
       "company": "HomeTrust Bancshares Inc",
       "sector": "Financial",
@@ -262,7 +275,7 @@
       "volume": "240,088"
     },
     {
-      "no": "21",
+      "no": "22",
       "ticker": "IIAG",
       "company": "Iamgold Corp",
       "sector": "Basic Materials",
@@ -275,7 +288,7 @@
       "volume": "6,110,985"
     },
     {
-      "no": "22",
+      "no": "23",
       "ticker": "IIBEX",
       "company": "IBEX Ltd",
       "sector": "Technology",
@@ -288,7 +301,7 @@
       "volume": "82,969"
     },
     {
-      "no": "23",
+      "no": "24",
       "ticker": "IITRN",
       "company": "Ituran Location And Control Ltd",
       "sector": "Technology",
@@ -301,7 +314,7 @@
       "volume": "115,951"
     },
     {
-      "no": "24",
+      "no": "25",
       "ticker": "KKFY",
       "company": "Korn Ferry",
       "sector": "Industrials",
@@ -314,7 +327,7 @@
       "volume": "284,954"
     },
     {
-      "no": "25",
+      "no": "26",
       "ticker": "KKGC",
       "company": "Kinross Gold Corp",
       "sector": "Basic Materials",
@@ -327,7 +340,7 @@
       "volume": "12,846,817"
     },
     {
-      "no": "26",
+      "no": "27",
       "ticker": "KKSPI",
       "company": "Kaspi.kz JSC ADR",
       "sector": "Technology",
@@ -340,7 +353,7 @@
       "volume": "548,334"
     },
     {
-      "no": "27",
+      "no": "28",
       "ticker": "LLX",
       "company": "LexinFintech Holdings Ltd ADR",
       "sector": "Financial",
@@ -353,7 +366,7 @@
       "volume": "1,389,036"
     },
     {
-      "no": "28",
+      "no": "29",
       "ticker": "MMLI",
       "company": "Mueller Industries Inc",
       "sector": "Industrials",
@@ -366,7 +379,7 @@
       "volume": "1,424,483"
     },
     {
-      "no": "29",
+      "no": "30",
       "ticker": "NNEM",
       "company": "Newmont Corp",
       "sector": "Basic Materials",
@@ -379,7 +392,7 @@
       "volume": "10,521,681"
     },
     {
-      "no": "30",
+      "no": "31",
       "ticker": "NNRDS",
       "company": "Nerdwallet Inc",
       "sector": "Communication Services",
@@ -392,7 +405,7 @@
       "volume": "1,091,701"
     },
     {
-      "no": "31",
+      "no": "32",
       "ticker": "NNTB",
       "company": "Bank of N T Butterfield & Son Ltd",
       "sector": "Financial",
@@ -405,7 +418,7 @@
       "volume": "117,577"
     },
     {
-      "no": "32",
+      "no": "33",
       "ticker": "NNTES",
       "company": "NetEase Inc ADR",
       "sector": "Communication Services",
@@ -418,7 +431,7 @@
       "volume": "1,302,585"
     },
     {
-      "no": "33",
+      "no": "34",
       "ticker": "NNUE",
       "company": "Nucor Corp",
       "sector": "Basic Materials",
@@ -431,7 +444,7 @@
       "volume": "2,705,655"
     },
     {
-      "no": "34",
+      "no": "35",
       "ticker": "NNXPI",
       "company": "NXP Semiconductors NV",
       "sector": "Technology",
@@ -444,7 +457,7 @@
       "volume": "2,172,698"
     },
     {
-      "no": "35",
+      "no": "36",
       "ticker": "OOPFI",
       "company": "OppFi Inc",
       "sector": "Financial",
@@ -457,7 +470,7 @@
       "volume": "713,466"
     },
     {
-      "no": "36",
+      "no": "37",
       "ticker": "OOSK",
       "company": "Oshkosh Corp",
       "sector": "Industrials",
@@ -470,7 +483,7 @@
       "volume": "766,821"
     },
     {
-      "no": "37",
+      "no": "38",
       "ticker": "PPAAS",
       "company": "Pan American Silver Corp",
       "sector": "Basic Materials",
@@ -483,7 +496,7 @@
       "volume": "14,657,884"
     },
     {
-      "no": "38",
+      "no": "39",
       "ticker": "PPLGO",
       "company": "Pelagos Insurance Capital Ltd",
       "sector": "Financial",
@@ -496,7 +509,7 @@
       "volume": "415,678"
     },
     {
-      "no": "39",
+      "no": "40",
       "ticker": "PPLMR",
       "company": "Palomar Holdings Inc",
       "sector": "Financial",
@@ -509,7 +522,7 @@
       "volume": "362,783"
     },
     {
-      "no": "40",
+      "no": "41",
       "ticker": "PPUK",
       "company": "Prudential plc ADR",
       "sector": "Financial",
@@ -522,7 +535,7 @@
       "volume": "525,998"
     },
     {
-      "no": "41",
+      "no": "42",
       "ticker": "QQNST",
       "company": "QuinStreet Inc",
       "sector": "Communication Services",
@@ -535,7 +548,7 @@
       "volume": "905,727"
     },
     {
-      "no": "42",
+      "no": "43",
       "ticker": "RRJF",
       "company": "Raymond James Financial Inc",
       "sector": "Financial",
@@ -548,7 +561,7 @@
       "volume": "1,723,698"
     },
     {
-      "no": "43",
+      "no": "44",
       "ticker": "SSEIC",
       "company": "SEI Investments Co",
       "sector": "Financial",
@@ -561,7 +574,7 @@
       "volume": "801,151"
     },
     {
-      "no": "44",
+      "no": "45",
       "ticker": "SSMCI",
       "company": "Super Micro Computer Inc",
       "sector": "Technology",
@@ -574,7 +587,7 @@
       "volume": "36,474,341"
     },
     {
-      "no": "45",
+      "no": "46",
       "ticker": "SSQM",
       "company": "Sociedad Quimica Y Minera de Chile SA ADR",
       "sector": "Basic Materials",
@@ -587,7 +600,7 @@
       "volume": "1,677,301"
     },
     {
-      "no": "46",
+      "no": "47",
       "ticker": "TTFPM",
       "company": "Triple Flag Precious Metals Corp",
       "sector": "Basic Materials",
@@ -600,7 +613,7 @@
       "volume": "822,760"
     },
     {
-      "no": "47",
+      "no": "48",
       "ticker": "TTGS",
       "company": "Transportadora de Gas del Sur ADR",
       "sector": "Energy",
@@ -613,7 +626,7 @@
       "volume": "161,535"
     },
     {
-      "no": "48",
+      "no": "49",
       "ticker": "TTIMB",
       "company": "TIM SA ADR",
       "sector": "Communication Services",
@@ -626,7 +639,7 @@
       "volume": "1,568,563"
     },
     {
-      "no": "49",
+      "no": "50",
       "ticker": "TTTAM",
       "company": "Titan America SA",
       "sector": "Basic Materials",
@@ -639,7 +652,7 @@
       "volume": "286,284"
     },
     {
-      "no": "50",
+      "no": "51",
       "ticker": "UULTA",
       "company": "Ulta Beauty Inc",
       "sector": "Consumer Cyclical",
@@ -652,7 +665,7 @@
       "volume": "468,443"
     },
     {
-      "no": "51",
+      "no": "52",
       "ticker": "UURBN",
       "company": "Urban Outfitters Inc",
       "sector": "Consumer Cyclical",
@@ -665,7 +678,7 @@
       "volume": "1,057,375"
     },
     {
-      "no": "52",
+      "no": "53",
       "ticker": "VVMI",
       "company": "Valmont Industries Inc",
       "sector": "Industrials",
@@ -678,7 +691,7 @@
       "volume": "96,079"
     },
     {
-      "no": "53",
+      "no": "54",
       "ticker": "WWDC",
       "company": "Western Digital Corp",
       "sector": "Technology",
@@ -691,7 +704,7 @@
       "volume": "4,350,146"
     },
     {
-      "no": "54",
+      "no": "55",
       "ticker": "WWSFS",
       "company": "WSFS Financial Corp",
       "sector": "Financial",
@@ -704,7 +717,7 @@
       "volume": "479,757"
     },
     {
-      "no": "55",
+      "no": "56",
       "ticker": "ZZTO",
       "company": "ZTO Express (Cayman) Inc ADR",
       "sector": "Industrials",

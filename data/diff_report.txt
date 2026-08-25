@@ -1,8 +1,14 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-24T01:36:42.225024+00:00
-  Previous  : 2026-08-23T01:38:38.610263+00:00
+  Run date  : 2026-08-25T01:26:23.079682+00:00
+  Previous  : 2026-08-24T01:36:42.225448+00:00
 ============================================================
-  No changes detected.
+
+  ✅ NEW entries (2):
+    + IIA       Innovative Solutions And Support Inc  Industrials             USA
+    + MMCRI     Monarch Casino & Resort Inc          Consumer Cyclical       USA
+
+  ❌ REMOVED entries (1):
+    - UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
 ============================================================

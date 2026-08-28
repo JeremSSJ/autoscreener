@@ -1,15 +1,12 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-27T08:24:43.771409+00:00
-  Previous  : 2026-08-26T01:36:55.977504+00:00
+  Run date  : 2026-08-28T10:25:29.417147+00:00
+  Previous  : 2026-08-27T08:24:43.771914+00:00
 ============================================================
 
-  ✅ NEW entries (1):
-    + SSCHW     Charles Schwab Corp                  Financial               USA
-
-  ❌ REMOVED entries (3):
-    - CCUVL     Clinuvel Pharmaceuticals Ltd ADR     Healthcare              Australia
-    - NNUE      Nucor Corp                           Basic Materials         USA
-    - WWDC      Western Digital Corp                 Technology              USA
+  ✅ NEW entries (3):
+    + BBOOT     Boot Barn Holdings Inc               Consumer Cyclical       USA
+    + UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
+    + WWDC      Western Digital Corp                 Technology              USA
 ============================================================

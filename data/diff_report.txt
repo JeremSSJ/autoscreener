@@ -1,12 +1,15 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-08-28T10:25:29.417147+00:00
-  Previous  : 2026-08-27T08:24:43.771914+00:00
+  Run date  : 2026-08-29T06:25:51.043035+00:00
+  Previous  : 2026-08-28T10:25:29.417715+00:00
 ============================================================
 
   ✅ NEW entries (3):
-    + BBOOT     Boot Barn Holdings Inc               Consumer Cyclical       USA
-    + UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
-    + WWDC      Western Digital Corp                 Technology              USA
+    + EENS      Enersys                              Industrials             USA
+    + IIA       Innovative Solutions And Support Inc  Industrials             USA
+    + NNUE      Nucor Corp                           Basic Materials         USA
+
+  ❌ REMOVED entries (1):
+    - SSCHW     Charles Schwab Corp                  Financial               USA
 ============================================================

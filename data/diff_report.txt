@@ -1,14 +1,10 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-01T04:21:36.943174+00:00
-  Previous  : 2026-08-31T04:40:51.462840+00:00
+  Run date  : 2026-09-02T03:44:35.297467+00:00
+  Previous  : 2026-09-01T04:21:36.943721+00:00
 ============================================================
 
-  ✅ NEW entries (2):
-    + HHMY      Harmony Gold Mining Co Ltd ADR       Basic Materials         South Africa
-    + SSCHW     Charles Schwab Corp                  Financial               USA
-
   ❌ REMOVED entries (1):
-    - LLX       LexinFintech Holdings Ltd ADR        Financial               China
+    - NNUE      Nucor Corp                           Basic Materials         USA
 ============================================================

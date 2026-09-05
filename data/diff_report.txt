@@ -1,14 +1,13 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-04T03:44:55.066354+00:00
-  Previous  : 2026-09-03T03:42:53.534617+00:00
+  Run date  : 2026-09-05T03:44:05.760006+00:00
+  Previous  : 2026-09-04T03:44:55.066805+00:00
 ============================================================
 
-  ✅ NEW entries (2):
-    + CCVSA     Covista Inc                          Consumer Defensive      USA
-    + GGMED     Globus Medical Inc                   Healthcare              USA
+  ✅ NEW entries (1):
+    + SSCHW     Charles Schwab Corp                  Financial               USA
 
   ❌ REMOVED entries (1):
-    - SSCHW     Charles Schwab Corp                  Financial               USA
+    - GGMED     Globus Medical Inc                   Healthcare              USA
 ============================================================

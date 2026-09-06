@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T03:44:05.760393+00:00",
+  "fetched_at": "2026-09-06T03:46:52.984424+00:00",
   "companies": [
     {
       "no": "1",
@@ -359,7 +359,7 @@
       "sector": "Technology",
       "industry": "Information Technology Services",
       "country": "USA",
-      "market_cap": "524.46M",
+      "market_cap": "524.45M",
       "pe": "12.22",
       "price": "39.17",
       "change": "-0.61%",
@@ -515,7 +515,7 @@
       "sector": "Financial",
       "industry": "Credit Services",
       "country": "USA",
-      "market_cap": "632.24M",
+      "market_cap": "632.25M",
       "pe": "4.37",
       "price": "7.42",
       "change": "1.37%",
@@ -723,7 +723,7 @@
       "sector": "Consumer Cyclical",
       "industry": "Apparel Retail",
       "country": "USA",
-      "market_cap": "6.93B",
+      "market_cap": "6.94B",
       "pe": "12.63",
       "price": "80.97",
       "change": "0.48%",

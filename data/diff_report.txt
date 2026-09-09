@@ -1,8 +1,13 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-08T03:50:45.009012+00:00
-  Previous  : 2026-09-07T03:46:14.630739+00:00
+  Run date  : 2026-09-09T03:55:29.281694+00:00
+  Previous  : 2026-09-08T03:50:45.009491+00:00
 ============================================================
-  No changes detected.
+
+  ✅ NEW entries (1):
+    + GGMED     Globus Medical Inc                   Healthcare              USA
+
+  ❌ REMOVED entries (1):
+    - DDECK     Deckers Outdoor Corp                 Consumer Cyclical       USA
 ============================================================

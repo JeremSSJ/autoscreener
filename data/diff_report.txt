@@ -1,13 +1,11 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-09T03:55:29.281694+00:00
-  Previous  : 2026-09-08T03:50:45.009491+00:00
+  Run date  : 2026-09-10T03:54:37.474384+00:00
+  Previous  : 2026-09-09T03:55:29.282218+00:00
 ============================================================
 
-  ✅ NEW entries (1):
-    + GGMED     Globus Medical Inc                   Healthcare              USA
-
-  ❌ REMOVED entries (1):
-    - DDECK     Deckers Outdoor Corp                 Consumer Cyclical       USA
+  ✅ NEW entries (2):
+    + UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
+    + WWTW      Willis Towers Watson Public Limited Co  Financial               United Kingdom
 ============================================================

@@ -1,10 +1,10 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-17T04:13:03.647253+00:00
-  Previous  : 2026-09-16T04:06:02.145366+00:00
+  Run date  : 2026-09-18T03:58:04.273856+00:00
+  Previous  : 2026-09-17T04:13:03.647784+00:00
 ============================================================
 
-  ✅ NEW entries (1):
-    + DDRD      DRDGold Ltd ADR                      Basic Materials         South Africa
+  ❌ REMOVED entries (1):
+    - TTGS      Transportadora de Gas del Sur ADR    Energy                  Argentina
 ============================================================

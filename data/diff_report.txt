@@ -1,10 +1,11 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-18T03:58:04.273856+00:00
-  Previous  : 2026-09-17T04:13:03.647784+00:00
+  Run date  : 2026-09-19T03:55:09.474550+00:00
+  Previous  : 2026-09-18T03:58:04.274226+00:00
 ============================================================
 
-  ❌ REMOVED entries (1):
-    - TTGS      Transportadora de Gas del Sur ADR    Energy                  Argentina
+  ✅ NEW entries (2):
+    + IINTU     Intuit Inc                           Technology              USA
+    + NNUE      Nucor Corp                           Basic Materials         USA
 ============================================================

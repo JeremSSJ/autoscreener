@@ -1,14 +1,10 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-23T04:03:04.550188+00:00
-  Previous  : 2026-09-22T04:06:34.079112+00:00
+  Run date  : 2026-09-24T03:58:16.358465+00:00
+  Previous  : 2026-09-23T04:03:04.550805+00:00
 ============================================================
 
-  ✅ NEW entries (2):
-    + OOBT      Orange County Bancorp Inc            Financial               USA
-    + PPBAM     Private Bancorp of America Inc       Financial               USA
-
-  ❌ REMOVED entries (1):
-    - NNXPI     NXP Semiconductors NV                Technology              Netherlands
+  ✅ NEW entries (1):
+    + UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
 ============================================================

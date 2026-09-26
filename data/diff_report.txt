@@ -1,11 +1,13 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-25T04:12:51.600129+00:00
-  Previous  : 2026-09-24T03:58:16.358904+00:00
+  Run date  : 2026-09-26T04:17:15.307268+00:00
+  Previous  : 2026-09-25T04:12:51.600519+00:00
 ============================================================
 
-  ✅ NEW entries (2):
-    + FFIVE     Five Below Inc                       Consumer Cyclical       USA
-    + NNXPI     NXP Semiconductors NV                Technology              Netherlands
+  ✅ NEW entries (1):
+    + LLGCY     Legacy Education Inc                 Consumer Defensive      USA
+
+  ❌ REMOVED entries (1):
+    - NNXPI     NXP Semiconductors NV                Technology              Netherlands
 ============================================================

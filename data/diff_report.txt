@@ -1,8 +1,14 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-09-28T04:35:03.266811+00:00
-  Previous  : 2026-09-27T04:33:01.006338+00:00
+  Run date  : 2026-09-29T05:02:57.387987+00:00
+  Previous  : 2026-09-28T04:35:03.267293+00:00
 ============================================================
-  No changes detected.
+
+  ✅ NEW entries (1):
+    + CCBOE     Cboe Global Markets Inc              Financial               USA
+
+  ❌ REMOVED entries (2):
+    - FFIVE     Five Below Inc                       Consumer Cyclical       USA
+    - UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
 ============================================================

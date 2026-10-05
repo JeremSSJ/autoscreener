@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-04T05:05:37.695948+00:00",
+  "fetched_at": "2026-10-05T04:52:02.702026+00:00",
   "companies": [
     {
       "no": "1",
@@ -588,6 +588,19 @@
     },
     {
       "no": "46",
+      "ticker": "PPIPR",
+      "company": "Piper Sandler Co's",
+      "sector": "Financial",
+      "industry": "Capital Markets",
+      "country": "USA",
+      "market_cap": "4.62B",
+      "pe": "15.15",
+      "price": "65.36",
+      "change": "-0.64%",
+      "volume": "831,267"
+    },
+    {
+      "no": "47",
       "ticker": "PPLGO",
       "company": "Pelagos Insurance Capital Ltd",
       "sector": "Financial",
@@ -600,7 +613,7 @@
       "volume": "327,859"
     },
     {
-      "no": "47",
+      "no": "48",
       "ticker": "PPLMR",
       "company": "Palomar Holdings Inc",
       "sector": "Financial",
@@ -613,7 +626,7 @@
       "volume": "226,881"
     },
     {
-      "no": "48",
+      "no": "49",
       "ticker": "PPUK",
       "company": "Prudential plc ADR",
       "sector": "Financial",
@@ -626,7 +639,7 @@
       "volume": "1,407,004"
     },
     {
-      "no": "49",
+      "no": "50",
       "ticker": "QQNST",
       "company": "QuinStreet Inc",
       "sector": "Communication Services",
@@ -639,7 +652,7 @@
       "volume": "813,700"
     },
     {
-      "no": "50",
+      "no": "51",
       "ticker": "RRJF",
       "company": "Raymond James Financial Inc",
       "sector": "Financial",
@@ -652,7 +665,7 @@
       "volume": "907,961"
     },
     {
-      "no": "51",
+      "no": "52",
       "ticker": "SSCHW",
       "company": "Charles Schwab Corp",
       "sector": "Financial",
@@ -665,7 +678,7 @@
       "volume": "7,722,113"
     },
     {
-      "no": "52",
+      "no": "53",
       "ticker": "SSEIC",
       "company": "SEI Investments Co",
       "sector": "Financial",
@@ -678,7 +691,7 @@
       "volume": "619,149"
     },
     {
-      "no": "53",
+      "no": "54",
       "ticker": "SSMCI",
       "company": "Super Micro Computer Inc",
       "sector": "Technology",
@@ -691,7 +704,7 @@
       "volume": "44,497,408"
     },
     {
-      "no": "54",
+      "no": "55",
       "ticker": "SSQM",
       "company": "Sociedad Quimica Y Minera de Chile SA ADR",
       "sector": "Basic Materials",
@@ -704,7 +717,7 @@
       "volume": "535,040"
     },
     {
-      "no": "55",
+      "no": "56",
       "ticker": "TTFPM",
       "company": "Triple Flag Precious Metals Corp",
       "sector": "Basic Materials",
@@ -717,7 +730,7 @@
       "volume": "544,057"
     },
     {
-      "no": "56",
+      "no": "57",
       "ticker": "TTTAM",
       "company": "Titan America SA",
       "sector": "Basic Materials",
@@ -730,7 +743,7 @@
       "volume": "237,424"
     },
     {
-      "no": "57",
+      "no": "58",
       "ticker": "UULTA",
       "company": "Ulta Beauty Inc",
       "sector": "Consumer Cyclical",
@@ -743,7 +756,7 @@
       "volume": "341,214"
     },
     {
-      "no": "58",
+      "no": "59",
       "ticker": "UURBN",
       "company": "Urban Outfitters Inc",
       "sector": "Consumer Cyclical",
@@ -756,7 +769,7 @@
       "volume": "1,071,289"
     },
     {
-      "no": "59",
+      "no": "60",
       "ticker": "VVMI",
       "company": "Valmont Industries Inc",
       "sector": "Industrials",
@@ -769,7 +782,7 @@
       "volume": "166,162"
     },
     {
-      "no": "60",
+      "no": "61",
       "ticker": "WWDC",
       "company": "Western Digital Corp",
       "sector": "Technology",
@@ -782,7 +795,7 @@
       "volume": "24,768,458"
     },
     {
-      "no": "61",
+      "no": "62",
       "ticker": "WWSFS",
       "company": "WSFS Financial Corp",
       "sector": "Financial",
@@ -795,7 +808,7 @@
       "volume": "341,487"
     },
     {
-      "no": "62",
+      "no": "63",
       "ticker": "WWTW",
       "company": "Willis Towers Watson Public Limited Co",
       "sector": "Financial",
@@ -808,7 +821,7 @@
       "volume": "463,976"
     },
     {
-      "no": "63",
+      "no": "64",
       "ticker": "ZZTO",
       "company": "ZTO Express (Cayman) Inc ADR",
       "sector": "Industrials",

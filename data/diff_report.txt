@@ -1,10 +1,11 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-10-05T04:52:02.701492+00:00
-  Previous  : 2026-10-04T05:05:37.695948+00:00
+  Run date  : 2026-10-06T05:39:10.064139+00:00
+  Previous  : 2026-10-05T04:52:02.702026+00:00
 ============================================================
 
-  ✅ NEW entries (1):
-    + PPIPR     Piper Sandler Co's                   Financial               USA
+  ❌ REMOVED entries (2):
+    - HHTB      HomeTrust Bancshares Inc             Financial               USA
+    - NNUE      Nucor Corp                           Basic Materials         USA
 ============================================================

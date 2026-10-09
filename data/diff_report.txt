@@ -1,16 +1,14 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-10-08T05:20:09.954429+00:00
-  Previous  : 2026-10-07T05:09:40.575968+00:00
+  Run date  : 2026-10-09T05:23:34.549218+00:00
+  Previous  : 2026-10-08T05:20:09.954900+00:00
 ============================================================
 
-  ✅ NEW entries (7):
-    + AAMAL     Amalgamated Financial Corp           Financial               USA
-    + BBWFG     Bankwell Financial Group Inc         Financial               USA
-    + CCASH     Pathward Financial Inc               Financial               USA
-    + EENS      Enersys                              Industrials             USA
-    + EESQ      Esquire Financial Holdings Inc       Financial               USA
-    + HHTB      HomeTrust Bancshares Inc             Financial               USA
-    + NNUE      Nucor Corp                           Basic Materials         USA
+  ✅ NEW entries (2):
+    + DDECK     Deckers Outdoor Corp                 Consumer Cyclical       USA
+    + NNXPI     NXP Semiconductors NV                Technology              Netherlands
+
+  ❌ REMOVED entries (1):
+    - UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
 ============================================================

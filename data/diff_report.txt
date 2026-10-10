@@ -1,14 +1,8 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-10-09T05:23:34.549218+00:00
-  Previous  : 2026-10-08T05:20:09.954900+00:00
+  Run date  : 2026-10-10T05:07:24.435961+00:00
+  Previous  : 2026-10-09T05:23:34.549659+00:00
 ============================================================
-
-  ✅ NEW entries (2):
-    + DDECK     Deckers Outdoor Corp                 Consumer Cyclical       USA
-    + NNXPI     NXP Semiconductors NV                Technology              Netherlands
-
-  ❌ REMOVED entries (1):
-    - UULTA     Ulta Beauty Inc                      Consumer Cyclical       USA
+  No changes detected.
 ============================================================

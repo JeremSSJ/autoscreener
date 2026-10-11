@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T05:07:24.472008+00:00",
+  "fetched_at": "2026-10-11T04:57:17.774950+00:00",
   "companies": [
     {
       "no": "1",
@@ -398,7 +398,7 @@
       "sector": "Financial",
       "industry": "Banks - Regional",
       "country": "USA",
-      "market_cap": "763.04M",
+      "market_cap": "763.05M",
       "pe": "11.97",
       "price": "45.71",
       "change": "-1.55%",
@@ -632,7 +632,7 @@
       "sector": "Financial",
       "industry": "Credit Services",
       "country": "USA",
-      "market_cap": "505.29M",
+      "market_cap": "505.28M",
       "pe": "3.49",
       "price": "5.93",
       "change": "-2.63%",
@@ -671,7 +671,7 @@
       "sector": "Financial",
       "industry": "Banks - Regional",
       "country": "USA",
-      "market_cap": "488.47M",
+      "market_cap": "488.46M",
       "pe": "11.08",
       "price": "85.25",
       "change": "-0.21%",

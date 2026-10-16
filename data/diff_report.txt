@@ -1,8 +1,13 @@
 ============================================================
   FINVIZ SCREENER – DAILY DIFF REPORT
 ============================================================
-  Run date  : 2026-10-15T03:56:02.947122+00:00
-  Previous  : 2026-10-14T04:13:10.243754+00:00
+  Run date  : 2026-10-16T03:51:55.186312+00:00
+  Previous  : 2026-10-15T03:56:02.947602+00:00
 ============================================================
-  No changes detected.
+
+  ❌ REMOVED entries (4):
+    - DDECK     Deckers Outdoor Corp                 Consumer Cyclical       USA
+    - FFIVE     Five Below Inc                       Consumer Cyclical       USA
+    - GGMED     Globus Medical Inc                   Healthcare              USA
+    - IINTU     Intuit Inc                           Technology              USA
 ============================================================
